@@ -16,6 +16,8 @@ migrate_working_dir/
 *.pickle
 .env
 macos/Runner/GoogleService-Info.plist
+**/GoogleService-Info.plist
+
 # Firebase and Google Services files
 google-services.json
 **/google-services.json
