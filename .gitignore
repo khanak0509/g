@@ -1,0 +1,181 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+automate-genie-48cb3-firebase-adminsdk-fbsvc-04d9a2172d.json
+
+**/dgph
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+**/*sync/
+.sconsign.dblite
+.tags*
+**/.vagrant/
+**/DerivedData/
+Icon?
+**/Pods/
+**/.symlinks/
+profile
+xcuserdata
+**/.generated/
+Flutter/App.framework
+Flutter/Flutter.framework
+Flutter/Flutter.podspec
+Flutter/Generated.xcconfig
+Flutter/ephemeral/
+Flutter/app.flx
+Flutter/app.zip
+Flutter/flutter_assets/
+Flutter/flutter_export_environment.sh
+ServiceDefinitions.json
+Runner/GeneratedPluginRegistrant.*
+
+# Exceptions to above rules.
+!default.mode1v3
+!default.mode2v3
+!default.pbxuser
+!default.perspectivev3
+GenieBot/firebase.json
+
+.env
+GenieBot/firebase.json
+GenieBot/firebase.json
+chatbot.db-wal
+chatbot.db-shm
+GenieBot/credentials copy.json
+GenieBot/credentials.json
+GenieBot/genie-bot-e45d0-firebase-adminsdk-fbsvc-c6c48ab034.json
+GenieBot/img.jpeg
+
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.flutter-versions
+
+# Android
+**/android/.gradle/
+**/android/app/build/
+**/local.properties
+**/android/key.properties
+**/android/app/google-services.json
+
+# iOS
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/DerivedData/
+**/ios/.generated/
+**/ios/xcuserdata/
+**/ios/profile
+**/ios/Icon?
+**/ios/Runner.xcworkspace/
+
+# Firebase & Credentials
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+*.cer
+*.der
+*.pem
+*.crt
+*.p8
+*.key
+firebase.json
+**/credentials.json
+**/credentials copy.json
+**/*-firebase-adminsdk-*.json
+
+# Databases
+*.db
+*.db-wal
+*.db-shm
+
+# Environment files
+.env
+.env.*
+
+# Logs & temp files
+*.log
+*.tmp
+*.swp
+*.lock
+*.DS_Store
+*.bak
+*.iml
+
+# IDEs
+.vscode/
+.idea/
+
+
+GenieBot/client_secret_2_595124698337-j8oin5fdh531kelgkppglrb461e777u6.apps.googleusercontent.com.json
+GenieBot/android/app/google-services.json
+GenieBot/client_secret_595124698337-j8oin5fdh531kelgkppglrb461e777u6.apps.googleusercontent.com.json
+GenieBot/firebase.json
+GenieBot/token.pickle
+
+
+GenieBot/token.json
