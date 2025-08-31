@@ -1,0 +1,6 @@
+chatbot.db
+firebase.json
+google-services.json
+firebase_options.dart
+credentials.json
+*firebase-adminsdk*.json
