@@ -12,6 +12,30 @@
 .swiftpm/
 migrate_working_dir/
 
+# Firebase and Google Services files
+google-services.json
+**/google-services.json
+firebase.json
+**/firebase.json
+firebase_options.dart
+**/firebase_options.dart
+*-firebase-adminsdk-*.json
+*.pem
+**/credentials*.json
+**/*firebase-adminsdk*.json
+
+# Database files
+*.db
+*.db-wal
+*.db-shm
+chatbot.db*
+
+# Environment and configuration files
+.env
+*.env
+.env.*
+*.config.json
+
 # IntelliJ related
 *.iml
 *.ipr
