@@ -226,3 +226,7 @@ token.pickle
 /Users/khanak/Desktop/automate/geniebot/client_secret_2_595124698337-j8oin5fdh531kelgkppglrb461e777u6.apps.googleusercontent.com.json
 GenieBot/client_secret_595124698337-j8oin5fdh531kelgkppglrb461e777u6.apps.googleusercontent.com.json
 GenieBot/client_secret_2_595124698337-j8oin5fdh531kelgkppglrb461e777u6.apps.googleusercontent.com.json
+
+
+ios/Runner/GoogleService-Info.plist
+genie_bot/ios/Runner/GoogleService-Info.plist
