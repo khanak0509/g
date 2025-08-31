@@ -84,13 +84,4 @@ GenieBot/
 ├── utils/               # Utility functions
 └── tests/               # Test suite
 ```
-🔒 Security Notes
-Never commit secrets like API keys, OAuth tokens, or Firebase plist/JSON files.
-Use .env for local environment variables.
-Keep credentials like client_secret.json local and add them to .gitignore.
-🤝 Contributing
-Fork the repository
-Create a new branch: git checkout -b feature/my-feature
-Make your changes
-Commit your changes: git commit -m "Add my feature"
-Push to branch: git push origin feature/my-feature
+.
